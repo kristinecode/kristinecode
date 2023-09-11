@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kristinecode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kristinecode/kristinecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m @kristinecode
+- 👀 I’m interested in Ui/UX Design
+- 🌱 I’m currently learning Illustrator, Photoshop, Figma, Sketch, HTML, and CSS
+- 💞️ I’m looking to collaborate on design projects.
+- 📫 How to reach me: kristinechang@ymail.com
